@@ -1,0 +1,19 @@
+li.spokesperson {
+    list-style: none;
+    min-height: 85px;
+    border: 0 !important;
+    padding-left: 0;
+}
+
+.spokesperson a {
+    line-height: 26px;
+}
+
+.spokesperson .avatar {
+    float: left;
+    margin: 0 15px 35px 0;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+}
+
